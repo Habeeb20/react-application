@@ -1,0 +1,19 @@
+{
+  "Goods": [
+    {
+      "id": 1,
+      "item": "puma",
+      "img": true
+    },
+    {
+      "id": 4,
+      "item": "fendi",
+      "img": true
+    },
+    {
+      "id": 5,
+      "item": "sneaker",
+      "img": true
+    }
+  ]
+}

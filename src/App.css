@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+ul li {
+  transition: .3s;
+}
+
+ul li:hover {
+  transition: 2s;
+  background-color: greenyellow;
+}
+
+.All button {
+  background-color: greenyellow;
+  transform: translateY(20px);
+  opacity: 0;
+  transition: 0.3s all;
+}
+
+.All :hover button {
+
+  transform: translateY(0);
+  border-radius: 15%;
+  opacity: 1;
+ 
+}
+
+
+
+
+
